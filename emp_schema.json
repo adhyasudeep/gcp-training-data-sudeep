@@ -1,3 +1,5 @@
+{
+"BigQuery Schema":
 [
   {
     "description": "employee id",
@@ -18,3 +20,4 @@
     "type": "STRING"
   }
 ]
+}
